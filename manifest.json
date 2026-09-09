@@ -1,0 +1,20 @@
+{
+  "name": "Aroma de Barrio",
+  "short_name": "Aroma de Barrio",
+  "description": "Pide tu café favorito de Aroma de Barrio desde el móvil.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1512",
+  "theme_color": "#0b1512",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
